@@ -37,7 +37,7 @@ git pull git://github.com/construct-components/starfield.git master
 3. Start using it!
 
 ```html
-<ui-component></ui-component>
+<stars is="construct-starfield" animated="1"></stars>
 ```
 
 
