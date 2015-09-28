@@ -1,10 +1,10 @@
 {
-	"name": "app.ui.component",
-	"version": "0.3.0",
-	"description": "APP UI: Component",
+	"name": "construct.starfield",
+	"version": "0.0.1",
+	"description": "Construct: Starfield",
 	"license": "MIT",
 	"keywords": [
-			"component", "app-ui", "ui", "web-components"
+			"construct", "starfield", "component", "web-components"
 	],
 	"main": "index.html",
 	"ignore": [
@@ -13,7 +13,7 @@
 		"node_modules"
 	],
 	"dependencies": {
-		"webcomponentsjs": "*",
-		"app" : "*"
+		"construct" : "*",
+		"webcomponentsjs": "*"
 	}
 }
