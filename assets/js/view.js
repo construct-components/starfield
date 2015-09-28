@@ -8,6 +8,6 @@
 
 	});
 
-	APP.UI = APP.UI || {};
-	APP.UI.Component = View;
+	APP.FX = APP.FX || {};
+	APP.FX.Starfield = View;
 })( this.APP );
