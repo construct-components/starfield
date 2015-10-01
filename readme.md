@@ -12,7 +12,7 @@
 
 Using bower:
 ```
-bower install construct.starfield
+bower install construct-starfield
 ```
 
 Import from github
