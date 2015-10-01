@@ -31,7 +31,7 @@ git pull git://github.com/construct-components/starfield.git master
 
 2. Import Custom Element:
 ```html
-<link rel="import" href="components/construct.starfield">
+<link rel="import" href="components/construct-starfield">
 ```
 
 3. Start using it!
